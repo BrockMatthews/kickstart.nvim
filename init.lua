@@ -219,7 +219,7 @@ require('lazy').setup({
             accent5    = "#19d1e5",
             accent6    = "#7ca4ee",
             dimmed1    = "#bab6c0",
-            dimmed2    = "#f8f8f0",
+            dimmed2    = "#a28fff",
             dimmed3    = "#5c6370",
             dimmed4    = "#4c525c",
             dimmed5    = "#1e1e2b",
